@@ -1,0 +1,8 @@
+source
+------
+* wpu youtube : https://www.youtube.com/playlist?list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0
+* wpu git rest : https://github.com/sandhikagalih/rest-api
+* wpu git ci : https://github.com/sandhikagalih/ngobar-9-codeigniter
+* rest-server library : https://github.com/chriskacerguis/codeigniter-restserver
+* api-client library : https://docs.guzzlephp.org/en/stable/
+* omdb api : http://www.omdbapi.com/?i=tt3896198&apikey=8edcc915
